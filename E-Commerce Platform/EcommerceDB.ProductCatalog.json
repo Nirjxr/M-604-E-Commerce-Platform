@@ -1,0 +1,2300 @@
+[{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610def"
+  },
+  "productId": 1,
+  "productName": "Product 1",
+  "brand": "Dell",
+  "price": 27.5,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product1_1.jpg",
+    "product1_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610df0"
+  },
+  "productId": 2,
+  "productName": "Product 2",
+  "brand": "HP",
+  "price": 35,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product2_1.jpg",
+    "product2_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610df1"
+  },
+  "productId": 3,
+  "productName": "Product 3",
+  "brand": "Apple",
+  "price": 42.5,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product3_1.jpg",
+    "product3_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610df2"
+  },
+  "productId": 4,
+  "productName": "Product 4",
+  "brand": "Samsung",
+  "price": 50,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product4_1.jpg",
+    "product4_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610df3"
+  },
+  "productId": 5,
+  "productName": "Product 5",
+  "brand": "Sony",
+  "price": 57.5,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product5_1.jpg",
+    "product5_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610df4"
+  },
+  "productId": 6,
+  "productName": "Product 6",
+  "brand": "Lenovo",
+  "price": 65,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product6_1.jpg",
+    "product6_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610df5"
+  },
+  "productId": 7,
+  "productName": "Product 7",
+  "brand": "Asus",
+  "price": 72.5,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product7_1.jpg",
+    "product7_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610df6"
+  },
+  "productId": 8,
+  "productName": "Product 8",
+  "brand": "Acer",
+  "price": 80,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product8_1.jpg",
+    "product8_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610df7"
+  },
+  "productId": 9,
+  "productName": "Product 9",
+  "brand": "Nike",
+  "price": 87.5,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product9_1.jpg",
+    "product9_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610df8"
+  },
+  "productId": 10,
+  "productName": "Product 10",
+  "brand": "Adidas",
+  "price": 90,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product10_1.jpg",
+    "product10_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610df9"
+  },
+  "productId": 11,
+  "productName": "Product 11",
+  "brand": "Dell",
+  "price": 102.5,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product11_1.jpg",
+    "product11_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610dfa"
+  },
+  "productId": 12,
+  "productName": "Product 12",
+  "brand": "HP",
+  "price": 110,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product12_1.jpg",
+    "product12_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610dfb"
+  },
+  "productId": 13,
+  "productName": "Product 13",
+  "brand": "Apple",
+  "price": 117.5,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product13_1.jpg",
+    "product13_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610dfc"
+  },
+  "productId": 14,
+  "productName": "Product 14",
+  "brand": "Samsung",
+  "price": 125,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product14_1.jpg",
+    "product14_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610dfd"
+  },
+  "productId": 15,
+  "productName": "Product 15",
+  "brand": "Sony",
+  "price": 132.5,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product15_1.jpg",
+    "product15_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610dfe"
+  },
+  "productId": 16,
+  "productName": "Product 16",
+  "brand": "Lenovo",
+  "price": 140,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product16_1.jpg",
+    "product16_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610dff"
+  },
+  "productId": 17,
+  "productName": "Product 17",
+  "brand": "Asus",
+  "price": 147.5,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product17_1.jpg",
+    "product17_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e00"
+  },
+  "productId": 18,
+  "productName": "Product 18",
+  "brand": "Acer",
+  "price": 155,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product18_1.jpg",
+    "product18_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e01"
+  },
+  "productId": 19,
+  "productName": "Product 19",
+  "brand": "Nike",
+  "price": 162.5,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product19_1.jpg",
+    "product19_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e02"
+  },
+  "productId": 20,
+  "productName": "Product 20",
+  "brand": "Adidas",
+  "price": 170,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product20_1.jpg",
+    "product20_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e03"
+  },
+  "productId": 21,
+  "productName": "Product 21",
+  "brand": "Dell",
+  "price": 177.5,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product21_1.jpg",
+    "product21_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e04"
+  },
+  "productId": 22,
+  "productName": "Product 22",
+  "brand": "HP",
+  "price": 185,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product22_1.jpg",
+    "product22_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e05"
+  },
+  "productId": 23,
+  "productName": "Product 23",
+  "brand": "Apple",
+  "price": 192.5,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product23_1.jpg",
+    "product23_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e06"
+  },
+  "productId": 24,
+  "productName": "Product 24",
+  "brand": "Samsung",
+  "price": 200,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product24_1.jpg",
+    "product24_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e07"
+  },
+  "productId": 25,
+  "productName": "Product 25",
+  "brand": "Sony",
+  "price": 207.5,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product25_1.jpg",
+    "product25_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e08"
+  },
+  "productId": 26,
+  "productName": "Product 26",
+  "brand": "Lenovo",
+  "price": 215,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product26_1.jpg",
+    "product26_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e09"
+  },
+  "productId": 27,
+  "productName": "Product 27",
+  "brand": "Asus",
+  "price": 222.5,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product27_1.jpg",
+    "product27_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e0a"
+  },
+  "productId": 28,
+  "productName": "Product 28",
+  "brand": "Acer",
+  "price": 230,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product28_1.jpg",
+    "product28_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e0b"
+  },
+  "productId": 29,
+  "productName": "Product 29",
+  "brand": "Nike",
+  "price": 237.5,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product29_1.jpg",
+    "product29_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e0c"
+  },
+  "productId": 30,
+  "productName": "Product 30",
+  "brand": "Adidas",
+  "price": 245,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product30_1.jpg",
+    "product30_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e0d"
+  },
+  "productId": 31,
+  "productName": "Product 31",
+  "brand": "Dell",
+  "price": 252.5,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product31_1.jpg",
+    "product31_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e0e"
+  },
+  "productId": 32,
+  "productName": "Product 32",
+  "brand": "HP",
+  "price": 260,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product32_1.jpg",
+    "product32_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e0f"
+  },
+  "productId": 33,
+  "productName": "Product 33",
+  "brand": "Apple",
+  "price": 267.5,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product33_1.jpg",
+    "product33_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e10"
+  },
+  "productId": 34,
+  "productName": "Product 34",
+  "brand": "Samsung",
+  "price": 275,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product34_1.jpg",
+    "product34_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e11"
+  },
+  "productId": 35,
+  "productName": "Product 35",
+  "brand": "Sony",
+  "price": 282.5,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product35_1.jpg",
+    "product35_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e12"
+  },
+  "productId": 36,
+  "productName": "Product 36",
+  "brand": "Lenovo",
+  "price": 290,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product36_1.jpg",
+    "product36_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e13"
+  },
+  "productId": 37,
+  "productName": "Product 37",
+  "brand": "Asus",
+  "price": 297.5,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product37_1.jpg",
+    "product37_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e14"
+  },
+  "productId": 38,
+  "productName": "Product 38",
+  "brand": "Acer",
+  "price": 305,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product38_1.jpg",
+    "product38_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e15"
+  },
+  "productId": 39,
+  "productName": "Product 39",
+  "brand": "Nike",
+  "price": 312.5,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product39_1.jpg",
+    "product39_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e16"
+  },
+  "productId": 40,
+  "productName": "Product 40",
+  "brand": "Adidas",
+  "price": 320,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product40_1.jpg",
+    "product40_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e17"
+  },
+  "productId": 41,
+  "productName": "Product 41",
+  "brand": "Dell",
+  "price": 327.5,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product41_1.jpg",
+    "product41_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e18"
+  },
+  "productId": 42,
+  "productName": "Product 42",
+  "brand": "HP",
+  "price": 335,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product42_1.jpg",
+    "product42_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e19"
+  },
+  "productId": 43,
+  "productName": "Product 43",
+  "brand": "Apple",
+  "price": 342.5,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product43_1.jpg",
+    "product43_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e1a"
+  },
+  "productId": 44,
+  "productName": "Product 44",
+  "brand": "Samsung",
+  "price": 350,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product44_1.jpg",
+    "product44_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e1b"
+  },
+  "productId": 45,
+  "productName": "Product 45",
+  "brand": "Sony",
+  "price": 357.5,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product45_1.jpg",
+    "product45_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e1c"
+  },
+  "productId": 46,
+  "productName": "Product 46",
+  "brand": "Lenovo",
+  "price": 365,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product46_1.jpg",
+    "product46_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e1d"
+  },
+  "productId": 47,
+  "productName": "Product 47",
+  "brand": "Asus",
+  "price": 372.5,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product47_1.jpg",
+    "product47_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e1e"
+  },
+  "productId": 48,
+  "productName": "Product 48",
+  "brand": "Acer",
+  "price": 380,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product48_1.jpg",
+    "product48_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e1f"
+  },
+  "productId": 49,
+  "productName": "Product 49",
+  "brand": "Nike",
+  "price": 387.5,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product49_1.jpg",
+    "product49_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e20"
+  },
+  "productId": 50,
+  "productName": "Product 50",
+  "brand": "Adidas",
+  "price": 395,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product50_1.jpg",
+    "product50_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e21"
+  },
+  "productId": 51,
+  "productName": "Product 51",
+  "brand": "Dell",
+  "price": 402.5,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product51_1.jpg",
+    "product51_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e22"
+  },
+  "productId": 52,
+  "productName": "Product 52",
+  "brand": "HP",
+  "price": 410,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product52_1.jpg",
+    "product52_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e23"
+  },
+  "productId": 53,
+  "productName": "Product 53",
+  "brand": "Apple",
+  "price": 417.5,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product53_1.jpg",
+    "product53_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e24"
+  },
+  "productId": 54,
+  "productName": "Product 54",
+  "brand": "Samsung",
+  "price": 425,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product54_1.jpg",
+    "product54_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e25"
+  },
+  "productId": 55,
+  "productName": "Product 55",
+  "brand": "Sony",
+  "price": 432.5,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product55_1.jpg",
+    "product55_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e26"
+  },
+  "productId": 56,
+  "productName": "Product 56",
+  "brand": "Lenovo",
+  "price": 440,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product56_1.jpg",
+    "product56_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e27"
+  },
+  "productId": 57,
+  "productName": "Product 57",
+  "brand": "Asus",
+  "price": 447.5,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product57_1.jpg",
+    "product57_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e28"
+  },
+  "productId": 58,
+  "productName": "Product 58",
+  "brand": "Acer",
+  "price": 455,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product58_1.jpg",
+    "product58_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e29"
+  },
+  "productId": 59,
+  "productName": "Product 59",
+  "brand": "Nike",
+  "price": 462.5,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product59_1.jpg",
+    "product59_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e2a"
+  },
+  "productId": 60,
+  "productName": "Product 60",
+  "brand": "Adidas",
+  "price": 470,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product60_1.jpg",
+    "product60_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e2b"
+  },
+  "productId": 61,
+  "productName": "Product 61",
+  "brand": "Dell",
+  "price": 477.5,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product61_1.jpg",
+    "product61_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e2c"
+  },
+  "productId": 62,
+  "productName": "Product 62",
+  "brand": "HP",
+  "price": 485,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product62_1.jpg",
+    "product62_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e2d"
+  },
+  "productId": 63,
+  "productName": "Product 63",
+  "brand": "Apple",
+  "price": 492.5,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product63_1.jpg",
+    "product63_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e2e"
+  },
+  "productId": 64,
+  "productName": "Product 64",
+  "brand": "Samsung",
+  "price": 500,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product64_1.jpg",
+    "product64_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e2f"
+  },
+  "productId": 65,
+  "productName": "Product 65",
+  "brand": "Sony",
+  "price": 507.5,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product65_1.jpg",
+    "product65_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e30"
+  },
+  "productId": 66,
+  "productName": "Product 66",
+  "brand": "Lenovo",
+  "price": 515,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product66_1.jpg",
+    "product66_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e31"
+  },
+  "productId": 67,
+  "productName": "Product 67",
+  "brand": "Asus",
+  "price": 522.5,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product67_1.jpg",
+    "product67_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e32"
+  },
+  "productId": 68,
+  "productName": "Product 68",
+  "brand": "Acer",
+  "price": 530,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product68_1.jpg",
+    "product68_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e33"
+  },
+  "productId": 69,
+  "productName": "Product 69",
+  "brand": "Nike",
+  "price": 537.5,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product69_1.jpg",
+    "product69_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e34"
+  },
+  "productId": 70,
+  "productName": "Product 70",
+  "brand": "Adidas",
+  "price": 545,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product70_1.jpg",
+    "product70_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e35"
+  },
+  "productId": 71,
+  "productName": "Product 71",
+  "brand": "Dell",
+  "price": 552.5,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product71_1.jpg",
+    "product71_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e36"
+  },
+  "productId": 72,
+  "productName": "Product 72",
+  "brand": "HP",
+  "price": 560,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product72_1.jpg",
+    "product72_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e37"
+  },
+  "productId": 73,
+  "productName": "Product 73",
+  "brand": "Apple",
+  "price": 567.5,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product73_1.jpg",
+    "product73_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e38"
+  },
+  "productId": 74,
+  "productName": "Product 74",
+  "brand": "Samsung",
+  "price": 575,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product74_1.jpg",
+    "product74_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e39"
+  },
+  "productId": 75,
+  "productName": "Product 75",
+  "brand": "Sony",
+  "price": 582.5,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product75_1.jpg",
+    "product75_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e3a"
+  },
+  "productId": 76,
+  "productName": "Product 76",
+  "brand": "Lenovo",
+  "price": 590,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product76_1.jpg",
+    "product76_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e3b"
+  },
+  "productId": 77,
+  "productName": "Product 77",
+  "brand": "Asus",
+  "price": 597.5,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product77_1.jpg",
+    "product77_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e3c"
+  },
+  "productId": 78,
+  "productName": "Product 78",
+  "brand": "Acer",
+  "price": 605,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product78_1.jpg",
+    "product78_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e3d"
+  },
+  "productId": 79,
+  "productName": "Product 79",
+  "brand": "Nike",
+  "price": 612.5,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product79_1.jpg",
+    "product79_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e3e"
+  },
+  "productId": 80,
+  "productName": "Product 80",
+  "brand": "Adidas",
+  "price": 620,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product80_1.jpg",
+    "product80_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e3f"
+  },
+  "productId": 81,
+  "productName": "Product 81",
+  "brand": "Dell",
+  "price": 627.5,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product81_1.jpg",
+    "product81_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e40"
+  },
+  "productId": 82,
+  "productName": "Product 82",
+  "brand": "HP",
+  "price": 635,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product82_1.jpg",
+    "product82_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e41"
+  },
+  "productId": 83,
+  "productName": "Product 83",
+  "brand": "Apple",
+  "price": 642.5,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product83_1.jpg",
+    "product83_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e42"
+  },
+  "productId": 84,
+  "productName": "Product 84",
+  "brand": "Samsung",
+  "price": 650,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product84_1.jpg",
+    "product84_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e43"
+  },
+  "productId": 85,
+  "productName": "Product 85",
+  "brand": "Sony",
+  "price": 657.5,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product85_1.jpg",
+    "product85_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e44"
+  },
+  "productId": 86,
+  "productName": "Product 86",
+  "brand": "Lenovo",
+  "price": 665,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product86_1.jpg",
+    "product86_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e45"
+  },
+  "productId": 87,
+  "productName": "Product 87",
+  "brand": "Asus",
+  "price": 672.5,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product87_1.jpg",
+    "product87_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e46"
+  },
+  "productId": 88,
+  "productName": "Product 88",
+  "brand": "Acer",
+  "price": 680,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product88_1.jpg",
+    "product88_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e47"
+  },
+  "productId": 89,
+  "productName": "Product 89",
+  "brand": "Nike",
+  "price": 687.5,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product89_1.jpg",
+    "product89_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e48"
+  },
+  "productId": 90,
+  "productName": "Product 90",
+  "brand": "Adidas",
+  "price": 695,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product90_1.jpg",
+    "product90_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e49"
+  },
+  "productId": 91,
+  "productName": "Product 91",
+  "brand": "Dell",
+  "price": 702.5,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product91_1.jpg",
+    "product91_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e4a"
+  },
+  "productId": 92,
+  "productName": "Product 92",
+  "brand": "HP",
+  "price": 710,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product92_1.jpg",
+    "product92_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e4b"
+  },
+  "productId": 93,
+  "productName": "Product 93",
+  "brand": "Apple",
+  "price": 717.5,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product93_1.jpg",
+    "product93_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e4c"
+  },
+  "productId": 94,
+  "productName": "Product 94",
+  "brand": "Samsung",
+  "price": 725,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product94_1.jpg",
+    "product94_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e4d"
+  },
+  "productId": 95,
+  "productName": "Product 95",
+  "brand": "Sony",
+  "price": 732.5,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product95_1.jpg",
+    "product95_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e4e"
+  },
+  "productId": 96,
+  "productName": "Product 96",
+  "brand": "Lenovo",
+  "price": 740,
+  "specifications": {
+    "processor": "Intel Core i3",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product96_1.jpg",
+    "product96_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e4f"
+  },
+  "productId": 97,
+  "productName": "Product 97",
+  "brand": "Asus",
+  "price": 747.5,
+  "specifications": {
+    "processor": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Black",
+    "Silver"
+  ],
+  "images": [
+    "product97_1.jpg",
+    "product97_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e50"
+  },
+  "productId": 98,
+  "productName": "Product 98",
+  "brand": "Acer",
+  "price": 755,
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Blue",
+    "Gray"
+  ],
+  "images": [
+    "product98_1.jpg",
+    "product98_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e51"
+  },
+  "productId": 99,
+  "productName": "Product 99",
+  "brand": "Nike",
+  "price": 762.5,
+  "specifications": {
+    "processor": "AMD Ryzen 5",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "images": [
+    "product99_1.jpg",
+    "product99_2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a3eeae2049bc13508610e52"
+  },
+  "productId": 100,
+  "productName": "Product 100",
+  "brand": "Adidas",
+  "price": 770,
+  "specifications": {
+    "processor": "AMD Ryzen 7",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "display": "15.6 inch"
+  },
+  "colors": [
+    "Red",
+    "Black"
+  ],
+  "images": [
+    "product100_1.jpg",
+    "product100_2.jpg"
+  ]
+}]

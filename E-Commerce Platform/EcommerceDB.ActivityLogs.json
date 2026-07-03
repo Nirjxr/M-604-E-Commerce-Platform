@@ -1,0 +1,1300 @@
+[{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ebc"
+  },
+  "logId": 1,
+  "customerId": 1,
+  "orderId": 1,
+  "productId": 1,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Chrome",
+  "timestamp": "2025-06-01T09:03:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ebd"
+  },
+  "logId": 2,
+  "customerId": 2,
+  "orderId": 2,
+  "productId": 2,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Firefox",
+  "timestamp": "2025-06-02T10:06:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ebe"
+  },
+  "logId": 3,
+  "customerId": 3,
+  "orderId": 3,
+  "productId": 3,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Edge",
+  "timestamp": "2025-06-03T11:09:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ebf"
+  },
+  "logId": 4,
+  "customerId": 4,
+  "orderId": 4,
+  "productId": 4,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Safari",
+  "timestamp": "2025-06-04T12:12:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ec0"
+  },
+  "logId": 5,
+  "customerId": 5,
+  "orderId": 5,
+  "productId": 5,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Chrome",
+  "timestamp": "2025-06-05T13:15:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ec1"
+  },
+  "logId": 6,
+  "customerId": 6,
+  "orderId": 6,
+  "productId": 6,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Firefox",
+  "timestamp": "2025-06-06T14:18:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ec2"
+  },
+  "logId": 7,
+  "customerId": 7,
+  "orderId": 7,
+  "productId": 7,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Edge",
+  "timestamp": "2025-06-07T15:21:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ec3"
+  },
+  "logId": 8,
+  "customerId": 8,
+  "orderId": 8,
+  "productId": 8,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Safari",
+  "timestamp": "2025-06-08T16:24:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ec4"
+  },
+  "logId": 9,
+  "customerId": 9,
+  "orderId": 9,
+  "productId": 9,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Chrome",
+  "timestamp": "2025-06-09T17:27:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ec5"
+  },
+  "logId": 10,
+  "customerId": 10,
+  "orderId": 10,
+  "productId": 10,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Firefox",
+  "timestamp": "2025-06-10T18:30:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ec6"
+  },
+  "logId": 11,
+  "customerId": 11,
+  "orderId": 11,
+  "productId": 11,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Edge",
+  "timestamp": "2025-06-11T19:33:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ec7"
+  },
+  "logId": 12,
+  "customerId": 12,
+  "orderId": 12,
+  "productId": 12,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Safari",
+  "timestamp": "2025-06-12T08:36:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ec8"
+  },
+  "logId": 13,
+  "customerId": 13,
+  "orderId": 13,
+  "productId": 13,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Chrome",
+  "timestamp": "2025-06-13T09:39:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ec9"
+  },
+  "logId": 14,
+  "customerId": 14,
+  "orderId": 14,
+  "productId": 14,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Firefox",
+  "timestamp": "2025-06-14T10:42:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610eca"
+  },
+  "logId": 15,
+  "customerId": 15,
+  "orderId": 15,
+  "productId": 15,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Edge",
+  "timestamp": "2025-06-15T11:45:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ecb"
+  },
+  "logId": 16,
+  "customerId": 16,
+  "orderId": 16,
+  "productId": 16,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Safari",
+  "timestamp": "2025-06-16T12:48:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ecc"
+  },
+  "logId": 17,
+  "customerId": 17,
+  "orderId": 17,
+  "productId": 17,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Chrome",
+  "timestamp": "2025-06-17T13:51:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ecd"
+  },
+  "logId": 18,
+  "customerId": 18,
+  "orderId": 18,
+  "productId": 18,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Firefox",
+  "timestamp": "2025-06-18T14:54:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ece"
+  },
+  "logId": 19,
+  "customerId": 19,
+  "orderId": 19,
+  "productId": 19,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Edge",
+  "timestamp": "2025-06-19T15:57:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ecf"
+  },
+  "logId": 20,
+  "customerId": 20,
+  "orderId": 20,
+  "productId": 20,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Safari",
+  "timestamp": "2025-06-20T16:00:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ed0"
+  },
+  "logId": 21,
+  "customerId": 21,
+  "orderId": 21,
+  "productId": 21,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Chrome",
+  "timestamp": "2025-06-21T17:03:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ed1"
+  },
+  "logId": 22,
+  "customerId": 22,
+  "orderId": 22,
+  "productId": 22,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Firefox",
+  "timestamp": "2025-06-22T18:06:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ed2"
+  },
+  "logId": 23,
+  "customerId": 23,
+  "orderId": 23,
+  "productId": 23,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Edge",
+  "timestamp": "2025-06-23T19:09:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ed3"
+  },
+  "logId": 24,
+  "customerId": 24,
+  "orderId": 24,
+  "productId": 24,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Safari",
+  "timestamp": "2025-06-24T08:12:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ed4"
+  },
+  "logId": 25,
+  "customerId": 25,
+  "orderId": 25,
+  "productId": 25,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Chrome",
+  "timestamp": "2025-06-25T09:15:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ed5"
+  },
+  "logId": 26,
+  "customerId": 26,
+  "orderId": 26,
+  "productId": 26,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Firefox",
+  "timestamp": "2025-06-26T10:18:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ed6"
+  },
+  "logId": 27,
+  "customerId": 27,
+  "orderId": 27,
+  "productId": 27,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Edge",
+  "timestamp": "2025-06-27T11:21:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ed7"
+  },
+  "logId": 28,
+  "customerId": 28,
+  "orderId": 28,
+  "productId": 28,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Safari",
+  "timestamp": "2025-06-28T12:24:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ed8"
+  },
+  "logId": 29,
+  "customerId": 29,
+  "orderId": 29,
+  "productId": 29,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Chrome",
+  "timestamp": "2025-06-29T13:27:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ed9"
+  },
+  "logId": 30,
+  "customerId": 30,
+  "orderId": 30,
+  "productId": 30,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Firefox",
+  "timestamp": "2025-06-30T14:30:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610eda"
+  },
+  "logId": 31,
+  "customerId": 31,
+  "orderId": 31,
+  "productId": 31,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Edge",
+  "timestamp": "2025-06-01T15:33:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610edb"
+  },
+  "logId": 32,
+  "customerId": 32,
+  "orderId": 32,
+  "productId": 32,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Safari",
+  "timestamp": "2025-06-02T16:36:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610edc"
+  },
+  "logId": 33,
+  "customerId": 33,
+  "orderId": 33,
+  "productId": 33,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Chrome",
+  "timestamp": "2025-06-03T17:39:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610edd"
+  },
+  "logId": 34,
+  "customerId": 34,
+  "orderId": 34,
+  "productId": 34,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Firefox",
+  "timestamp": "2025-06-04T18:42:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ede"
+  },
+  "logId": 35,
+  "customerId": 35,
+  "orderId": 35,
+  "productId": 35,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Edge",
+  "timestamp": "2025-06-05T19:45:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610edf"
+  },
+  "logId": 36,
+  "customerId": 36,
+  "orderId": 36,
+  "productId": 36,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Safari",
+  "timestamp": "2025-06-06T08:48:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ee0"
+  },
+  "logId": 37,
+  "customerId": 37,
+  "orderId": 37,
+  "productId": 37,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Chrome",
+  "timestamp": "2025-06-07T09:51:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ee1"
+  },
+  "logId": 38,
+  "customerId": 38,
+  "orderId": 38,
+  "productId": 38,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Firefox",
+  "timestamp": "2025-06-08T10:54:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ee2"
+  },
+  "logId": 39,
+  "customerId": 39,
+  "orderId": 39,
+  "productId": 39,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Edge",
+  "timestamp": "2025-06-09T11:57:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ee3"
+  },
+  "logId": 40,
+  "customerId": 40,
+  "orderId": 40,
+  "productId": 40,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Safari",
+  "timestamp": "2025-06-10T12:00:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ee4"
+  },
+  "logId": 41,
+  "customerId": 41,
+  "orderId": 41,
+  "productId": 41,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Chrome",
+  "timestamp": "2025-06-11T13:03:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ee5"
+  },
+  "logId": 42,
+  "customerId": 42,
+  "orderId": 42,
+  "productId": 42,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Firefox",
+  "timestamp": "2025-06-12T14:06:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ee6"
+  },
+  "logId": 43,
+  "customerId": 43,
+  "orderId": 43,
+  "productId": 43,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Edge",
+  "timestamp": "2025-06-13T15:09:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ee7"
+  },
+  "logId": 44,
+  "customerId": 44,
+  "orderId": 44,
+  "productId": 44,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Safari",
+  "timestamp": "2025-06-14T16:12:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ee8"
+  },
+  "logId": 45,
+  "customerId": 45,
+  "orderId": 45,
+  "productId": 45,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Chrome",
+  "timestamp": "2025-06-15T17:15:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ee9"
+  },
+  "logId": 46,
+  "customerId": 46,
+  "orderId": 46,
+  "productId": 46,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Firefox",
+  "timestamp": "2025-06-16T18:18:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610eea"
+  },
+  "logId": 47,
+  "customerId": 47,
+  "orderId": 47,
+  "productId": 47,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Edge",
+  "timestamp": "2025-06-17T19:21:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610eeb"
+  },
+  "logId": 48,
+  "customerId": 48,
+  "orderId": 48,
+  "productId": 48,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Safari",
+  "timestamp": "2025-06-18T08:24:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610eec"
+  },
+  "logId": 49,
+  "customerId": 49,
+  "orderId": 49,
+  "productId": 49,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Chrome",
+  "timestamp": "2025-06-19T09:27:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610eed"
+  },
+  "logId": 50,
+  "customerId": 50,
+  "orderId": 50,
+  "productId": 50,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Firefox",
+  "timestamp": "2025-06-20T10:30:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610eee"
+  },
+  "logId": 51,
+  "customerId": 51,
+  "orderId": 51,
+  "productId": 51,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Edge",
+  "timestamp": "2025-06-21T11:33:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610eef"
+  },
+  "logId": 52,
+  "customerId": 52,
+  "orderId": 52,
+  "productId": 52,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Safari",
+  "timestamp": "2025-06-22T12:36:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ef0"
+  },
+  "logId": 53,
+  "customerId": 53,
+  "orderId": 53,
+  "productId": 53,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Chrome",
+  "timestamp": "2025-06-23T13:39:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ef1"
+  },
+  "logId": 54,
+  "customerId": 54,
+  "orderId": 54,
+  "productId": 54,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Firefox",
+  "timestamp": "2025-06-24T14:42:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ef2"
+  },
+  "logId": 55,
+  "customerId": 55,
+  "orderId": 55,
+  "productId": 55,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Edge",
+  "timestamp": "2025-06-25T15:45:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ef3"
+  },
+  "logId": 56,
+  "customerId": 56,
+  "orderId": 56,
+  "productId": 56,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Safari",
+  "timestamp": "2025-06-26T16:48:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ef4"
+  },
+  "logId": 57,
+  "customerId": 57,
+  "orderId": 57,
+  "productId": 57,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Chrome",
+  "timestamp": "2025-06-27T17:51:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ef5"
+  },
+  "logId": 58,
+  "customerId": 58,
+  "orderId": 58,
+  "productId": 58,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Firefox",
+  "timestamp": "2025-06-28T18:54:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ef6"
+  },
+  "logId": 59,
+  "customerId": 59,
+  "orderId": 59,
+  "productId": 59,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Edge",
+  "timestamp": "2025-06-29T19:57:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ef7"
+  },
+  "logId": 60,
+  "customerId": 60,
+  "orderId": 60,
+  "productId": 60,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Safari",
+  "timestamp": "2025-06-30T08:00:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ef8"
+  },
+  "logId": 61,
+  "customerId": 61,
+  "orderId": 61,
+  "productId": 61,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Chrome",
+  "timestamp": "2025-06-01T09:03:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610ef9"
+  },
+  "logId": 62,
+  "customerId": 62,
+  "orderId": 62,
+  "productId": 62,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Firefox",
+  "timestamp": "2025-06-02T10:06:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610efa"
+  },
+  "logId": 63,
+  "customerId": 63,
+  "orderId": 63,
+  "productId": 63,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Edge",
+  "timestamp": "2025-06-03T11:09:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610efb"
+  },
+  "logId": 64,
+  "customerId": 64,
+  "orderId": 64,
+  "productId": 64,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Safari",
+  "timestamp": "2025-06-04T12:12:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610efc"
+  },
+  "logId": 65,
+  "customerId": 65,
+  "orderId": 65,
+  "productId": 65,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Chrome",
+  "timestamp": "2025-06-05T13:15:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610efd"
+  },
+  "logId": 66,
+  "customerId": 66,
+  "orderId": 66,
+  "productId": 66,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Firefox",
+  "timestamp": "2025-06-06T14:18:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610efe"
+  },
+  "logId": 67,
+  "customerId": 67,
+  "orderId": 67,
+  "productId": 67,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Edge",
+  "timestamp": "2025-06-07T15:21:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610eff"
+  },
+  "logId": 68,
+  "customerId": 68,
+  "orderId": 68,
+  "productId": 68,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Safari",
+  "timestamp": "2025-06-08T16:24:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f00"
+  },
+  "logId": 69,
+  "customerId": 69,
+  "orderId": 69,
+  "productId": 69,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Chrome",
+  "timestamp": "2025-06-09T17:27:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f01"
+  },
+  "logId": 70,
+  "customerId": 70,
+  "orderId": 70,
+  "productId": 70,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Firefox",
+  "timestamp": "2025-06-10T18:30:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f02"
+  },
+  "logId": 71,
+  "customerId": 71,
+  "orderId": 71,
+  "productId": 71,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Edge",
+  "timestamp": "2025-06-11T19:33:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f03"
+  },
+  "logId": 72,
+  "customerId": 72,
+  "orderId": 72,
+  "productId": 72,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Safari",
+  "timestamp": "2025-06-12T08:36:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f04"
+  },
+  "logId": 73,
+  "customerId": 73,
+  "orderId": 73,
+  "productId": 73,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Chrome",
+  "timestamp": "2025-06-13T09:39:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f05"
+  },
+  "logId": 74,
+  "customerId": 74,
+  "orderId": 74,
+  "productId": 74,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Firefox",
+  "timestamp": "2025-06-14T10:42:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f06"
+  },
+  "logId": 75,
+  "customerId": 75,
+  "orderId": 75,
+  "productId": 75,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Edge",
+  "timestamp": "2025-06-15T11:45:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f07"
+  },
+  "logId": 76,
+  "customerId": 76,
+  "orderId": 76,
+  "productId": 76,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Safari",
+  "timestamp": "2025-06-16T12:48:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f08"
+  },
+  "logId": 77,
+  "customerId": 77,
+  "orderId": 77,
+  "productId": 77,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Chrome",
+  "timestamp": "2025-06-17T13:51:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f09"
+  },
+  "logId": 78,
+  "customerId": 78,
+  "orderId": 78,
+  "productId": 78,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Firefox",
+  "timestamp": "2025-06-18T14:54:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f0a"
+  },
+  "logId": 79,
+  "customerId": 79,
+  "orderId": 79,
+  "productId": 79,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Edge",
+  "timestamp": "2025-06-19T15:57:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f0b"
+  },
+  "logId": 80,
+  "customerId": 80,
+  "orderId": 80,
+  "productId": 80,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Safari",
+  "timestamp": "2025-06-20T16:00:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f0c"
+  },
+  "logId": 81,
+  "customerId": 81,
+  "orderId": 81,
+  "productId": 81,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Chrome",
+  "timestamp": "2025-06-21T17:03:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f0d"
+  },
+  "logId": 82,
+  "customerId": 82,
+  "orderId": 82,
+  "productId": 82,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Firefox",
+  "timestamp": "2025-06-22T18:06:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f0e"
+  },
+  "logId": 83,
+  "customerId": 83,
+  "orderId": 83,
+  "productId": 83,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Edge",
+  "timestamp": "2025-06-23T19:09:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f0f"
+  },
+  "logId": 84,
+  "customerId": 84,
+  "orderId": 84,
+  "productId": 84,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Safari",
+  "timestamp": "2025-06-24T08:12:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f10"
+  },
+  "logId": 85,
+  "customerId": 85,
+  "orderId": 85,
+  "productId": 85,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Chrome",
+  "timestamp": "2025-06-25T09:15:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f11"
+  },
+  "logId": 86,
+  "customerId": 86,
+  "orderId": 86,
+  "productId": 86,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Firefox",
+  "timestamp": "2025-06-26T10:18:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f12"
+  },
+  "logId": 87,
+  "customerId": 87,
+  "orderId": 87,
+  "productId": 87,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Edge",
+  "timestamp": "2025-06-27T11:21:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f13"
+  },
+  "logId": 88,
+  "customerId": 88,
+  "orderId": 88,
+  "productId": 88,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Safari",
+  "timestamp": "2025-06-28T12:24:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f14"
+  },
+  "logId": 89,
+  "customerId": 89,
+  "orderId": 89,
+  "productId": 89,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Chrome",
+  "timestamp": "2025-06-29T13:27:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f15"
+  },
+  "logId": 90,
+  "customerId": 90,
+  "orderId": 90,
+  "productId": 90,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Firefox",
+  "timestamp": "2025-06-30T14:30:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f16"
+  },
+  "logId": 91,
+  "customerId": 91,
+  "orderId": 91,
+  "productId": 91,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Edge",
+  "timestamp": "2025-06-01T15:33:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f17"
+  },
+  "logId": 92,
+  "customerId": 92,
+  "orderId": 92,
+  "productId": 92,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Safari",
+  "timestamp": "2025-06-02T16:36:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f18"
+  },
+  "logId": 93,
+  "customerId": 93,
+  "orderId": 93,
+  "productId": 93,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Chrome",
+  "timestamp": "2025-06-03T17:39:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f19"
+  },
+  "logId": 94,
+  "customerId": 94,
+  "orderId": 94,
+  "productId": 94,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Firefox",
+  "timestamp": "2025-06-04T18:42:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f1a"
+  },
+  "logId": 95,
+  "customerId": 95,
+  "orderId": 95,
+  "productId": 95,
+  "activity": "Wishlist",
+  "device": "Desktop",
+  "browser": "Edge",
+  "timestamp": "2025-06-05T19:45:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f1b"
+  },
+  "logId": 96,
+  "customerId": 96,
+  "orderId": 96,
+  "productId": 96,
+  "activity": "Search",
+  "device": "Tablet",
+  "browser": "Safari",
+  "timestamp": "2025-06-06T08:48:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f1c"
+  },
+  "logId": 97,
+  "customerId": 97,
+  "orderId": 97,
+  "productId": 97,
+  "activity": "Viewed Product",
+  "device": "Mobile",
+  "browser": "Chrome",
+  "timestamp": "2025-06-07T09:51:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f1d"
+  },
+  "logId": 98,
+  "customerId": 98,
+  "orderId": 98,
+  "productId": 98,
+  "activity": "Added to Cart",
+  "device": "Desktop",
+  "browser": "Firefox",
+  "timestamp": "2025-06-08T10:54:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f1e"
+  },
+  "logId": 99,
+  "customerId": 99,
+  "orderId": 99,
+  "productId": 99,
+  "activity": "Removed from Cart",
+  "device": "Tablet",
+  "browser": "Edge",
+  "timestamp": "2025-06-09T11:57:00"
+},
+{
+  "_id": {
+    "$oid": "6a3eeb7d049bc13508610f1f"
+  },
+  "logId": 100,
+  "customerId": 100,
+  "orderId": 100,
+  "productId": 100,
+  "activity": "Placed Order",
+  "device": "Mobile",
+  "browser": "Safari",
+  "timestamp": "2025-06-10T12:00:00"
+}]
